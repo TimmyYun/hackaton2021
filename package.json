@@ -1,0 +1,26 @@
+{
+  "name": "hackaton2021",
+  "version": "1.0.0",
+  "description": "For hackaton 2021",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimmyYun/hackaton2021.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TimmyYun/hackaton2021/issues"
+  },
+  "homepage": "https://github.com/TimmyYun/hackaton2021#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "request": "^2.88.2"
+  }
+}
