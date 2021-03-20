@@ -1,0 +1,7 @@
+{
+    "hosting": {
+      "site": "poney-hie",
+      "public": "public"
+      
+    }
+}
